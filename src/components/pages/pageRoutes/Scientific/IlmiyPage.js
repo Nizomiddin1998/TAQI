@@ -8,7 +8,6 @@ import "./ilmiyPage.css"
 
 export default function IlmiyPage() {
     return <div >
-        <Nav />
         <img className="igm_taqi1" src={images} alt="my-img" />
 
         <div>
@@ -131,6 +130,5 @@ export default function IlmiyPage() {
                 </div>
             </div>
         </div>
-        <FooterNav />
     </div>;
 }

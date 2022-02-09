@@ -18,17 +18,17 @@ import Kengash from '../Haqida/Umumiy/Kengash/Kengash';
 import IlmiyPage from '../pages/pageRoutes/Scientific/IlmiyPage';
 import Research from '../pages/pageRoutes/Research/Research';
 import Acceptance from '../pages/pageRoutes/Acceptance/Acceptance';
+import Nav from '../pages/templates/navbar/Nav';
+import FooterNav from '../pages/templates/footer/FooterNav';
 
 
 const Routs = () => {
     return (
         <div>
 
-            <BrowserRouter>
 
                 <Switch>
                     {/* /* <Route path="/about" component={About} />  */}
-
 
                     <Route path="/academics" component={Academics} />
                     <Route path="/admission" component={Admission} />
@@ -47,12 +47,11 @@ const Routs = () => {
                     <Route path="/tadqiqot1" component={Research} />
                     <Route path="/qabul1" component={Acceptance} />
 
-                    <Route path="/" component={Main} />
+                    <Route path="/" exact component={Main} />
 
                 </Switch>
 
-            </BrowserRouter>
-
+            {/* <FooterNav/> */}
         </div>
     );
 }

@@ -8,7 +8,6 @@ import "./acceptance.css"
 
 export default function Acceptance() {
     return <div >
-        <Nav />
         <img className="igm_taqi1" src={images} alt="my-img" />
 
         <div>
@@ -103,6 +102,5 @@ export default function Acceptance() {
                 </div>
             </div>
         </div>
-        <FooterNav />
     </div>;
 }

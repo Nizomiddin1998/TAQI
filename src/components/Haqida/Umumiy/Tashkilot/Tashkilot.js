@@ -8,7 +8,7 @@ import images3 from '../../Rasmlar/nick-fewings-GoXNygZlftg-unsplash.jpg'
 function Tashkilot(props) {
     return (
         <>
-            <Nav />
+            
             <img className="igm_taqi3" src={images3} alt="my-img" />
 
             <div>
@@ -83,13 +83,6 @@ function Tashkilot(props) {
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-            <FooterNav />
 
         </>
     );

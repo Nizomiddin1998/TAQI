@@ -17,7 +17,7 @@ import FooterNav from "../templates/footer/FooterNav";
 function Campus() {
     return (
         <div className="Campus">
-            <Nav />
+
             <div>
                 <div className="Campus_body1">
                     <h1 className="Admission-title"> <strong>Campus Life</strong></h1>
@@ -362,7 +362,7 @@ function Campus() {
                 </div>
 
             </div>
-            <FooterNav />
+            
         </div>
 
     );

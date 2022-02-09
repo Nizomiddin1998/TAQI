@@ -8,7 +8,7 @@ import Nav from '../../../pages/templates/navbar/Nav';
 function Boshqaruv(props) {
     return (
         <>
-        <Nav/>
+       
 
             <img className="igm_taqi7" src={images7} alt="my-img" />
         
@@ -86,7 +86,7 @@ function Boshqaruv(props) {
             </div>
 
 
-            <FooterNav/>
+           
 
 
         </>

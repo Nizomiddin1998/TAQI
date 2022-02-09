@@ -9,7 +9,7 @@ import FooterNav from '../../../pages/templates/footer/FooterNav';
 function Kengash(props) {
     return (
         <>
-            <Nav />
+            
             <img className="igm_taqi8" src={images8} alt="my-img" />
 
             <div>
@@ -84,7 +84,7 @@ function Kengash(props) {
                     </div>
                 </div>
             </div>
-            <FooterNav />
+          
         </>
     );
 }

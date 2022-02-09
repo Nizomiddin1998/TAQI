@@ -8,7 +8,6 @@ import FooterNav from '../../pages/templates/footer/FooterNav';
 function Ins_tarixi() {
     return (
         <>
-            <Nav />
             <img className="igm_taqi1" src={images} alt="my-img" />
 
             <div>
@@ -68,7 +67,6 @@ function Ins_tarixi() {
                     </div>
                 </div>
             </div>
-            <FooterNav />
         </>
     );
 }

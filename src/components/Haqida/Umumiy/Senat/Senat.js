@@ -8,7 +8,7 @@ import FooterNav from '../../../pages/templates/footer/FooterNav';
 function Senat(props) {
     return (
         <>
-            <Nav />
+            
             <img className="igm_taqi6" src={images6} alt="my-img" />
 
             <div>
@@ -83,7 +83,7 @@ function Senat(props) {
                     </div>
                 </div>
             </div>
-            <FooterNav />
+           
         </>
     );
 }

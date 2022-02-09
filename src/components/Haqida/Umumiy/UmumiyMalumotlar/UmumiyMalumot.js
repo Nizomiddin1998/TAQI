@@ -10,7 +10,7 @@ import FooterNav from '../../../pages/templates/footer/FooterNav';
 function UmumiyMalumot(props) {
     return (
         <>
-            <Nav />
+            
             <img className="igm_taqi4" src={images4} alt="my-img" />
 
             <div>
@@ -86,7 +86,7 @@ function UmumiyMalumot(props) {
                 </div>
             </div>
 
-            <FooterNav />
+           
         </>
     );
 }

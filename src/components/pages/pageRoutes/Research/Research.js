@@ -8,7 +8,6 @@ import "./research.css";
 
 export default function Research() {
     return <div >
-        <Nav />
         <img className="igm_taqi1" src={images} alt="my-img" />
 
         <div>
@@ -108,6 +107,5 @@ export default function Research() {
                 </div>
             </div>
         </div>
-        <FooterNav />
     </div>;
 }

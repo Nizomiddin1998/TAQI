@@ -8,7 +8,7 @@ import EventPage from '../Events/EventPage';
 function PageRoute() {
     return (
         <div>
-           <Nav/> 
+           
             <main>
             <Switch>
                     {/* /* <Route path="/about" component={About} />  */}
@@ -25,8 +25,6 @@ function PageRoute() {
             </main>
 
             
-
-           <FooterNav/>
         </div>
     );
 }

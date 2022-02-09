@@ -9,7 +9,7 @@ import FooterNav from '../../../pages/templates/footer/FooterNav';
 function Sifat(props) {
     return (
         <>
-            <Nav />
+            
             <img className="igm_taqi5" src={images5} alt="my-img" />
 
             <div>
@@ -85,7 +85,7 @@ function Sifat(props) {
                 </div>
             </div>
 
-            <FooterNav />
+        
         </>
     );
 }

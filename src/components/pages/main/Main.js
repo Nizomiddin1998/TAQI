@@ -70,8 +70,6 @@ const Main = () => {
     <>
       <div className="main-container">
         <div className="header">
-          <Nav />
-
           <div className="carousel1" >
             <Carousel fade interval="5000" >
 
@@ -492,8 +490,6 @@ const Main = () => {
 
 
         </div>
-
-        <FooterNav />
       </div>
     </>
   );

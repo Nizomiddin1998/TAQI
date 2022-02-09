@@ -13,7 +13,7 @@ import './mamuriyat.css'
 const Mamuriyat = () => {
     return (
         <>
-            <Nav />
+
             <img className="igm_taqi2" src={images1} alt="my-img" />
 
 
@@ -58,14 +58,6 @@ const Mamuriyat = () => {
 
                             </div>
 
-
-
-
-
-
-
-
-
                         </div>
 
                         <div className='haqida_reight'>
@@ -80,18 +72,12 @@ const Mamuriyat = () => {
                                 Institut professor-o‘qituvchilari tomonidan chop etilgan ishlarga Web of Science, Scopus, Google Scholar tizimlarida 650 dan ortiq iqtiboslik mavjud. Xirsh (h)-indeksiga ega profesor-o‘qituvchi va ilmiy xodimlar soni 2019 yilda 3 nafar bo‘lgan bo‘lsa, 2020 yida 16 nafarni tashkil etdi.Institut respublika OTMlari Milliy reytingi bo‘yicha 2017 yilda 42 o‘rinni, 2018 yilda 20 o‘rinni, 2019 yilda esa 15 o‘rinni egalladi hamda 2020 yilda respublika OTMlari orasida professor-o‘qituvchilar tomonidan Web of Science, Scopus tizimlaridagi ilmiy jurnallarda maqola chop ettirish bo‘yicha 13 o‘ringa sazovor bo‘ldi.<br />
                                 Institut tashkil etilgandan beri, arxitektura va qurilish sohasi mutaxassislarini tayyorlashning dolzarb muammolari bo‘yicha 20 dan ortiq xalqaro konferensiyalar o‘tkazilgan.</p>
 
-
-
-
-
-
-
                         </div>
                     </div>
                 </div>
             </div>
 
-            <FooterNav />
+
 
         </>
     );

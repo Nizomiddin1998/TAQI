@@ -8,7 +8,6 @@ import './eventPage.css'
 
 export default function EventPage() {
     return <div>
-        <Nav />
         <img className="igm_taqi1" src={images} alt="my-img" />
 
         <div>
@@ -99,6 +98,5 @@ export default function EventPage() {
                 </div>
             </div>
         </div>
-        <FooterNav />
     </div>;
 }
