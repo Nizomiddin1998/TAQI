@@ -1,0 +1,284 @@
+.title{
+text-align: center;
+font-family:initial;
+font-style: normal;
+font-weight: normal;
+font-size: 50px;
+line-height: 36px;
+}
+
+.container21{
+    width: 95%;
+    margin: 0 auto  ;
+}
+.igm_taqi1{
+    width: 100%;
+    margin-top: 112px;
+}
+.body1 h1 {
+    font-size: 60px;
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 60px;
+    text-align: center;
+}
+
+.body1 h3{
+    font-family: Roboto;
+    font-weight: bold;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.RASM1 {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.Opened-in{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.Opened-in p {
+    font-size: 25px;
+}
+
+.Opened-in-1 {
+    margin-right: 500px;
+    padding: 30px;
+}
+
+.Opened-in-2 {
+    /* margin-right: 500px; */
+    padding: 30px;
+}
+
+.rasm2  img{
+    height: 300px; 
+    width: 450px; 
+   
+}
+
+.line{
+    width:1354px;
+ }
+
+
+ 
+ 
+ 
+.Leadership-title  {
+text-align: center;
+font-family:initial;
+font-style: normal;
+font-weight: normal;
+font-size: 25px;
+padding: 35px;
+
+}
+
+.Leadership {
+    text-align:justify;
+    justify-content: center;
+    display: flex;
+    margin: 50px;
+}
+
+
+
+.President{
+    margin-right:30px;
+   
+   
+}
+
+.President p {
+
+padding: 0px;
+
+}
+
+
+.Provost{
+    margin-right:30px;
+}
+
+.Other{
+    margin-right:30px;
+}
+
+
+
+.Visiting-title {
+    text-align: center;
+    font-family:initial;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    }
+    
+    .Visiting {
+        text-align:justify;
+        justify-content: center;
+        display: flex;
+        margin: 50px;
+    }
+    .Plan-a-Visit{
+        margin-right:30px;
+    }
+    
+    .Provost{
+        margin-right:30px;
+    }
+    
+    .Other{
+        margin-right:30px;
+    }
+
+
+
+    .Be-here{
+        height: 710px;
+        background-color: #2F2424;
+        padding-bottom: 140px;
+        padding-top: 70px; 
+    }
+    /* .be_here2{
+        display: flex;
+        padding-top: 70px;
+        justify-content: space-between;
+        position: relative;
+    } */
+
+    .sozlari{
+         width: 830px;
+         height: 400px;
+         background-color: #fff;
+         padding: 70px;
+         padding-right: 110px;
+         
+        
+    }
+
+
+    .yozuvi{
+        line-height: 25px;
+        font-size: 18px;
+    }
+    
+
+    .rasmi1{
+        height:500px;
+        width: 660px;
+        /* object-fit: cover; */
+        position: relative;
+        left: 770px;
+         bottom: 340px;
+    }
+
+
+    .sarlavha{
+        text-align: center;
+        padding-top: 55px;
+        font-size:45px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+
+
+   .Peoples{
+       text-align: center;
+       height: 710px;
+        background-color: #fff;
+        /* padding-bottom: 140px; */
+        padding-top: 70px; 
+        justify-content:space-between;
+        display: flex;
+   }
+
+   .suratlari img{
+       width: 673px;
+       height: 485px;
+       margin-left: 50PX;
+       z-index: 5;
+   }
+
+.native-american-blanket{
+    z-index: 2;
+    background-color: rgb(136, 41, 41)  !important;
+}
+   .Gaplari{
+       width: 650px;
+       height: 250px;
+       background-color: #F4F4F4;
+       margin-right: 170px;
+       bottom: 35px;
+       position: relative;
+        right: px;
+   }
+
+   
+   .sarlavha1{
+       text-align: center;
+       font-size:28px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        margin-bottom: 50px;
+   }
+
+
+   .Tarixide{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 35px;
+    
+   } 
+
+
+   .tarixi1 img{
+    width: 450px;
+    height: 350px;
+    margin-left:50px
+   }
+
+   .tarixi1 h1{
+    margin-left:50px 
+   }
+
+   .tarixi1 p{
+      margin-left: 50px;
+   }
+
+   .tarixi1 h2{
+    margin-left: 50px;
+   }
+   .tarixi2 img{
+       width: 450px;
+       height: 350px;
+       margin-left:30px
+   }
+
+
+   .tarixi2{
+       margin-right: 25px;
+   }
+   .Tarixide .tarixi2 h1,p{
+       
+    margin-left:30px
+   }
+   .tarixi2 h2{
+       margin-left:30px ;
+   }
+   .tarixi3 img {
+    width: 450px;
+    height: 350px;
+   }
+
+.tarixi3 {
+    margin-right:40px;
+}
+.tarixi3 p,h2{
+    margin-left: 0px;
+}

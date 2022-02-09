@@ -1,0 +1,219 @@
+.bg_footer {
+  width: 100%;
+  height: auto;
+  background-color: #faf1f1;
+  position: relative;
+}
+
+.linebggg{
+  width: 100%;
+  height: 75px;
+  background: #ecebeb;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.icon_social{
+  width: 40px;
+  height: 40px;
+  margin: 0px 8px;
+}
+
+.twitter:hover{
+  color: rgb(0, 132, 255);
+  transition: 0.3s;
+}
+
+.telegram:hover{
+  color:rgb(0, 113, 189);
+  transition: 0.3s;
+}
+
+.youtube:hover{
+  color: red;
+  transition: 0.3s;
+}
+
+.instagram :hover{
+  color: rgb(224, 0, 187);
+  transition: 0.3s;
+}
+
+.line_black {
+  width: 85%;
+  margin: 0 auto;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+
+
+.footerbgg{
+  width: 100%;
+  height: auto;
+}
+
+.footer_contner{
+  width: 75%;
+  margin: 0px auto;
+  padding-top: 30px;
+}
+ 
+.footer_nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.logo_sec_taqi{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo_sec_taqi h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 20px;
+ margin: 0 30px;
+  color: #0a1a54;
+}
+
+.logo_taqi{
+  width: 200px;
+  height: 185px;
+  background-color: #515a61;
+  border-radius: 48%;
+  margin-top: 50px;
+}
+
+.footer_informatsia h3 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 35px;
+  color: #530000;
+
+  mix-blend-mode: hard-light;
+}
+
+.footer_informatsia p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 16px;
+  width: 277px;
+  color: #000000;
+  line-height: 2;
+  mix-blend-mode: hard-light;
+  margin-top: 50px;
+  margin-left: 0px;
+}
+
+.footer_ul {
+  padding: 0px;
+  line-height: 3;
+  margin-top: 50px;
+}
+
+.footer_ul li a{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 16px;
+  color: black;
+  text-decoration: none;
+
+  mix-blend-mode: hard-light;
+}
+
+.footer_ul li a:hover{
+  color: #001b7a;
+  text-decoration: underline;
+  transition: 0.3s;
+}
+
+.footer_btn{
+  display: flex;
+  flex-direction: column;
+
+}
+
+.btn_footer_page{
+  width: 190px;
+  height: 48px;
+  outline: none;
+  border: 1px solid #2e2e2e;
+  font-size: 18px;
+  font-weight: 500;
+  color:#2e2e2e;
+  margin-bottom: 20px;
+  background-color: white;
+}
+
+.btn_footer_page:hover{
+  transition: 0.3s;
+  border: 1px solid rgb(175, 0, 0);
+  background-color: rgb(255, 252, 249);
+  color: rgb(175, 0, 0);
+}
+
+.footer_2{
+  width: 100%;
+  height: 134px;
+  background-color:  #8c1515;
+}
+
+.footer2_informatsia h3{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 35px;
+  color: #ffffff;
+  padding-top: 10px;
+  mix-blend-mode: hard-light;
+}
+
+.footer2_informatsia p{
+  font-family: Roboto;
+  font-style: normal;
+  font-size: 17px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  mix-blend-mode: hard-light;
+  margin-bottom: 0;
+}
+
+.footer2_informatsia span:hover{
+  color: rgb(46, 85, 255);
+  text-decoration: underline;
+}
+
+.brand_footer{
+  width: 100%;
+  height: 35px;
+  background-color: #151a33;
+
+}
+
+.brand_footer p{
+  text-align: center;
+  color: white;
+  padding-top: 5px;
+}
+
+@media(min-width:1367px){
+  .footer_contner{
+      width: 1400px;
+      margin: 0 auto;
+  }
+}

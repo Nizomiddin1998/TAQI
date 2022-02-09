@@ -1,0 +1,13 @@
+.Search__main{
+    border: 2px solid red;
+    text-align: center;
+    font-size: 48px;
+    position: absolute;
+    top: 0px;
+    height: 70px;
+    transition: .3s;
+}
+
+.active{
+    top: 100px;
+}

@@ -1,0 +1,77 @@
+.academics_main{
+    width: 100%;
+    height: auto;
+}
+
+.academics_cont{
+    width: 95%;
+    margin: 0px auto;
+}
+
+.academics_header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.academics_h1{
+    font-size: 3.0517578125em;
+    font-weight: 900;
+    line-height: 1.25em;
+    text-align: center;
+    margin-top: 0.8em;
+    color: black;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.academics_p{
+    width: 730px;
+    font-size: 1.5625em;
+    text-align: center;
+    color: black;
+    line-height: 40px;
+}
+
+.ac_header{
+    width: 100%;
+    height: 517px;
+    margin-top: 95px!important;
+    background-size: cover;
+}
+
+.academics_numb{
+    width: 100%;
+    height: 141px;
+    margin-top: 78px;
+    border: 1px solid rgb(70, 70, 70);
+    border-right: none;
+    border-left: none;
+    margin-bottom: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ac_member{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.ac_member h4{
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+.ac_member p{
+    font-size: 20px;
+}
+
+
+.under_h1{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}

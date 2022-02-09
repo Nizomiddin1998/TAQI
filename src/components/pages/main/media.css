@@ -1,0 +1,36 @@
+@media (min-width:1400px){
+ .tashtechWidth, .eventsota, .academicss_card_main, .research_numb_container {
+     width:1435px;
+     margin: 0 auto;
+ }   
+
+ .research_card_main, .qabul_main_cont, .academics_navbg{
+    width:1435px;
+    margin: 0 auto;
+ }
+ .academics_navbg{
+   width: 60%;
+   margin: 0 auto;
+ }
+
+ .line_bg, .footer_nav{
+    width: 1435px;
+    margin: 0 auto;
+ }
+
+ .news_container{
+   width: 1435px;
+   margin: 0 auto;
+ }
+
+ .events_container{
+   width: 1435px;
+   margin: 0 auto;
+ }
+
+ .academics_cont{
+  width: 1435px;
+  margin: 0 auto;
+ }
+
+}
